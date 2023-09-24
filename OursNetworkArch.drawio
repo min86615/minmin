@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T07:56:45.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="r5eO5Lfd6e4Ap37cUDZw" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T08:02:58.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="MfBosZToV-1Lvu2RdI68" version="21.8.1" type="github">
   <diagram id="2DUUnCYvBqpXvS4ZBxQc" name="Recurrent Neural Network (RNN)">
-    <mxGraphModel dx="4340" dy="2030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3838" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,8 +9,8 @@
             <mxPoint x="855" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FcZPNLN2SZ12-Trmu3FX-272" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="520" width="450" height="520" as="geometry" />
+        <mxCell id="FcZPNLN2SZ12-Trmu3FX-272" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="630" y="510" width="460" height="530" as="geometry" />
         </mxCell>
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-245" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="100" y="860.6899999999999" width="399" height="139.5" as="geometry" />
@@ -57,10 +57,10 @@
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-126" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=110;direction=east;flipH=0;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="238.75" y="476.75" width="121.5" height="399" as="geometry" />
         </mxCell>
-        <mxCell id="FcZPNLN2SZ12-Trmu3FX-229" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="FcZPNLN2SZ12-Trmu3FX-229" value="" style="group;strokeWidth=2;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-63" y="740" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcZPNLN2SZ12-Trmu3FX-224" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;x3&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FcZPNLN2SZ12-Trmu3FX-229" vertex="1">
+        <mxCell id="FcZPNLN2SZ12-Trmu3FX-224" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;x3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FcZPNLN2SZ12-Trmu3FX-229" vertex="1">
           <mxGeometry y="5" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-226" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="FcZPNLN2SZ12-Trmu3FX-229" vertex="1">
@@ -69,13 +69,13 @@
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-230" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="12.5" y="796.01" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcZPNLN2SZ12-Trmu3FX-231" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;x4&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FcZPNLN2SZ12-Trmu3FX-230" vertex="1">
+        <mxCell id="FcZPNLN2SZ12-Trmu3FX-231" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;x4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FcZPNLN2SZ12-Trmu3FX-230" vertex="1">
           <mxGeometry x="-75" y="5" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-232" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="FcZPNLN2SZ12-Trmu3FX-230" vertex="1">
           <mxGeometry x="-5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcZPNLN2SZ12-Trmu3FX-234" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;x6&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FcZPNLN2SZ12-Trmu3FX-234" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;x6&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-63" y="853.12" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-236" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;direction=east;flipH=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -378,7 +378,7 @@
             <mxPoint x="288.75" y="198.80999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrllXiApPz5fg-DA0Xct-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;120x160x128&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="FcZPNLN2SZ12-Trmu3FX-367">
+        <mxCell id="CrllXiApPz5fg-DA0Xct-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;120x160x128&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="FcZPNLN2SZ12-Trmu3FX-367" vertex="1">
           <mxGeometry x="128.75" y="271.6199999999999" width="130" height="23.88" as="geometry" />
         </mxCell>
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-391" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=17;" parent="1" source="FcZPNLN2SZ12-Trmu3FX-387" target="FcZPNLN2SZ12-Trmu3FX-288" edge="1">
@@ -429,7 +429,7 @@
         <mxCell id="FcZPNLN2SZ12-Trmu3FX-415" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;120x160x128&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1735.75" y="1169" width="130" height="23.88" as="geometry" />
         </mxCell>
-        <mxCell id="CrllXiApPz5fg-DA0Xct-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=17;" edge="1" parent="1">
+        <mxCell id="CrllXiApPz5fg-DA0Xct-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=17;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2010" y="1189.45" as="sourcePoint" />
             <mxPoint x="2089.75" y="1189" as="targetPoint" />
